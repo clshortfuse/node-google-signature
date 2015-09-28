@@ -9,9 +9,6 @@
   "scripts": {
     "test": "mocha test/*.js"
   },
-  "bin": {
-    "sugar": "./bin/sugar"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/jcnade/node-google-signature.git"
